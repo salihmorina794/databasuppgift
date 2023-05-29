@@ -1,0 +1,10 @@
+C:\Users\salih.morina\Desktop\newdatabase\newdatabase\newdatabase\bin\Debug\newdatabase.exe.config
+C:\Users\salih.morina\Desktop\newdatabase\newdatabase\newdatabase\bin\Debug\newdatabase.exe
+C:\Users\salih.morina\Desktop\newdatabase\newdatabase\newdatabase\bin\Debug\newdatabase.pdb
+C:\Users\salih.morina\Desktop\newdatabase\newdatabase\newdatabase\obj\Debug\newdatabase.csproj.AssemblyReference.cache
+C:\Users\salih.morina\Desktop\newdatabase\newdatabase\newdatabase\obj\Debug\newdatabase.Form1.resources
+C:\Users\salih.morina\Desktop\newdatabase\newdatabase\newdatabase\obj\Debug\newdatabase.Properties.Resources.resources
+C:\Users\salih.morina\Desktop\newdatabase\newdatabase\newdatabase\obj\Debug\newdatabase.csproj.GenerateResource.cache
+C:\Users\salih.morina\Desktop\newdatabase\newdatabase\newdatabase\obj\Debug\newdatabase.csproj.CoreCompileInputs.cache
+C:\Users\salih.morina\Desktop\newdatabase\newdatabase\newdatabase\obj\Debug\newdatabase.exe
+C:\Users\salih.morina\Desktop\newdatabase\newdatabase\newdatabase\obj\Debug\newdatabase.pdb
